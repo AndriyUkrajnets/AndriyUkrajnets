@@ -1,0 +1,37 @@
+#header {
+    background-color: #A9A9A9;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-family: Calibri;
+    }
+#nav {
+    line-height:30px;
+    background-color: #8B008B;
+    height:300px;
+    width:100px;
+    float:left;
+    padding-top:50px;
+    padding-left:10px;
+    font-weight: bold;
+    color: white;
+    font-family: Calibri;
+}
+.pagers_linck{
+    color:white;
+    font-family: Calibri;
+}
+#section {
+    width: 80%;
+    float:left;
+    padding:10px; 
+    font-family: Calibri;   
+}
+#footer {
+    background-color: #696969;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    font-family: Calibri; 
+}
