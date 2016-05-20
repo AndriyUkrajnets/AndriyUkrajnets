@@ -9,7 +9,7 @@
 #nav {
     line-height:30px;
     background-color: #8B008B;
-    height:1000px;
+    height:2000px;
     width:100px;
     float:left;
     padding-top:50px;
@@ -17,6 +17,9 @@
     font-weight: bold;
     color: white;
     font-family: Calibri;
+}
+p{
+    margin-left:  15px; 
 }
 .pagers_linck{
     color:white;
